@@ -5,6 +5,8 @@ import FormulaireNom from './FormulaireNom';
 import FormulaireNom2 from './FormulaireNom2';
 import CompteurEffet from './CompteurEffet';
 
+
+//ici on affiche ces élèments
 function App() {
   return (
     <div>
