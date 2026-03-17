@@ -1,5 +1,7 @@
 import { useState, useEffect } from 'react';
 
+
+//c'est pour l'effet de compteur (incrémentation)
 function CompteurEffet() {
   const [compte, setCompte] = useState(0);
 
