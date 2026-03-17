@@ -1,5 +1,6 @@
 import { useState } from "react";
 
+//clique avec changement de texte à chaque fois
 function MessageBouton2() {
   const messages = ["Premier clic", "Deuxième clic", "Troisième clic"];
   const [index, setIndex] = useState(0);
