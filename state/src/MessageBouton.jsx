@@ -5,7 +5,7 @@ function MessageBouton() {
 
   //evenement onClick (par clique sur le bouton)
   function changerMessage() {
-    setMessage('Vous avez cliqué sur le bouton !');
+    setMessage('Vous avez cliqué sur le bouton maintenant!');
   }
 
   return (
