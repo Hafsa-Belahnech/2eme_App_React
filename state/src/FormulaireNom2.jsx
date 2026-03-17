@@ -9,6 +9,7 @@ function FormulaireNom2() {
     alert(`Prénom: ${prenom} | Email: ${email}`);
   };
 
+  //nom + prenom ici
   return (
     <form onSubmit={handleSubmit}>
       <div>
