@@ -1,5 +1,6 @@
 import { useState } from 'react';
 
+//Pour soumission des infos à travers le formulaire
 function FormulaireNom() {
   const [nom, setNom] = useState('');
 
